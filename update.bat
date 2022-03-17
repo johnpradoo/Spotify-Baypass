@@ -9,6 +9,7 @@
 
 Write-Host @'
 Author: @johnpradoo
+Website: https://daksh.eu.org
 '@`n
 
 Add-Type -AssemblyName Microsoft.VisualBasic
@@ -26,7 +27,7 @@ if (-not (Test-Path -LiteralPath C:\Temp)) {
     New-Item -Type Directory -Path C:\Temp | Out-Null
 }
 Set-Location C:\Temp
-Invoke-WebRequest -Uri 'https://github.com/johnpradoo/Spotify-Baypass/archive/main.zip' -OutFile 'temp.zip'
+Invoke-WebRequest -Uri 'https://github.com/Daksh777/SpotifyNoPremium/archive/main.zip' -OutFile 'temp.zip'
 Expand-Archive 'temp.zip'
 Remove-Item 'temp.zip'
 Rename-Item -Path temp/SpotifyNoPremium-main -NewName SpotifyNoPremium
@@ -42,3 +43,15 @@ spicetify clear
 spicetify backup apply
 
 Write-Host "`nUpdated theme successfully"
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
