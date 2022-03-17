@@ -11,7 +11,7 @@ Este es un tema de `Andy` que:
 
 # Instalación
 ## 1. Instalación/actualizaciones automáticas para usuarios de Windows
-##### **Nota: si tiene Windows 8.1 o anterior, instale Powershell v5.1 ya que el script de instalación automática no es compatible con las versiones de Powershell anteriores a v5.  <br> Descargar aquí: https://www.microsoft.com/en-us/download/details.aspx?id=54616 <br> Más información: [#30](https://twitter.com/johnpradooo/status/1504558360238170116)**
+##### **Nota: si tiene Windows 8.1 o anterior, instale Powershell v5.1 ya que el script de instalación automática no es compatible con las versiones de Powershell anteriores a v5.  <br> Descargar aquí: https://www.microsoft.com/en-us/download/details.aspx?id=54616 <br> Más información: [#Twitter](https://twitter.com/johnpradooo/status/1504558360238170116)**
 
 * Instalación
 Ejecute `install.bat` si está instalando por primera vez.
