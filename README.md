@@ -1,6 +1,7 @@
 [![Python](https://img.shields.io/badge/-twitter-black?style=flat&logo=twitter&link=https://twitter.com/johnpradooo)](https://twitter.com/johnpradooo)
 [![Python](https://img.shields.io/badge/-instagram-Red?style=flat&logo=instagram&link=https://instagram.com/johnpradoo)](https://instagram.com/johnpradoo) 
 [![Python](https://img.shields.io/badge/-spotify-black?style=flat&logo=spotify&link=https://open.spotify.com/user/thepradotv)](https://open.spotify.com/user/thepradotv) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
 
 ## **Baypass**
 
@@ -11,9 +12,9 @@ Hemos cambiado a una solución de bloqueo de anuncios multiplataforma, así que 
 03/20/22.
 
 **Características**
-- Elimina todos los `Anuncios` de Spotify ([`Source`](https://github.com/johnpradoo/Spotify-Baypass/blob/main/adblock.js))
-- Elimina el botón `Actualizar`
-- Elimina la entrada `"Actualizar a Premium"` en el menú desplegable
+- Elimina todos los **`Anuncios`** de Spotify ([`Codigo`](https://github.com/johnpradoo/Spotify-Baypass/blob/main/adblock.js))
+- Elimina el botón **`Actualizar`**
+- Elimina la entrada **`"Actualizar a Premium"`** en el menú desplegable
 - Elimina los marcadores de posición de los anuncios (en la pestaña Inicio y encima de la barra de reproducción en curso)
 
 Instalación
