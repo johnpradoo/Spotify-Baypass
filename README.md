@@ -11,8 +11,7 @@ Hemos cambiado a una solución de bloqueo de anuncios multiplataforma, así que 
 - Elimina la entrada **`"Actualizar a Premium"`** en el menú desplegable
 - Elimina los marcadores de posición de los anuncios (en la pestaña Inicio y encima de la barra de reproducción en curso)
 
-Instalación
-Instalación/actualizaciones automáticas para usuarios de Windows
+Instalación/actualizaciones automáticas para usuarios de Windows 
 Nota: si tiene Windows 8.1 o anterior, instale **Powershell v5.1** ya que el script de instalación automática no es compatible con las versiones de Powershell anteriores a **v5.** Descargar aquí: ([`Powershell v5.1`](https://www.microsoft.com/en-us/download/details.aspx?id=54616)) [Twitter](https://twitter.com/johnpradooo/status/1504558360238170116).
 <div align="center">
 
@@ -22,4 +21,6 @@ Nota: si tiene Windows 8.1 o anterior, instale **Powershell v5.1** ya que el scr
   
 [![Matrix SVG](https://c.tenor.com/bffImNY16WIAAAAC/demon-slayer-kimetsu-no-yaiba.gif)
   
+###### (Play Lis) 
+  ![](https://img.shields.io/badge/spotify-%7C-0%2C%2022%2C%20100)
 </div>
