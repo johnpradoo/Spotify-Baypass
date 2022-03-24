@@ -9,7 +9,7 @@ Hemos cambiado a una solución de bloqueo de anuncios multiplataforma, así que 
 Este es un tema de `ANDERSON PRADO` que:
 - Elimina todos los `Anuncios` de Spotify ([`Source`](https://github.com/johnpradoo/Spotify-Baypass/blob/main/adblock.js))
 - Elimina el botón `Actualizar`
-- Elimina la entrada "Actualizar a Premium" en el menú desplegable
+- Elimina la entrada `"Actualizar a Premium"` en el menú desplegable
 - Elimina los marcadores de posición de los anuncios (en la pestaña Inicio y encima de la barra de reproducción en curso)
 
 # Instalación
