@@ -2,7 +2,7 @@
 Un tema multiplataforma de Spicetify que ordena la interfaz de usuario de stock de Spotify y elimina todos los anuncios.
 Hemos cambiado a una solución de bloqueo de anuncios multiplataforma, así que asegúrese de usar el último ([`install.bat`](https://github.com/johnpradoo/Spotify-Baypass/releases/download/03.18.21/install.bat))  para obtener las últimas funciones y GIT. ([`Git.exe`](https://github.com/johnpradoo/Spotify-Baypass/releases/download/03.18.21/Git-2.34.1-64-bit.exe)).
 `Spotify-Baypass`New version
-`1.1.81.604.gccacfc8c` (*Baypass*).
+`Última versión probada: 1.1.82.758.g8b7b66c7` (*Baypass*).
 03/20/22.
 
 **Características**
