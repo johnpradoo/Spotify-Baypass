@@ -22,6 +22,4 @@ Nota: si tiene Windows 8.1 o anterior, instale **Powershell v5.1** ya que el scr
   
 [![Matrix SVG](https://c.tenor.com/bffImNY16WIAAAAC/demon-slayer-kimetsu-no-yaiba.gif)
   
-###### (Play Lis) 
-  ![](https://img.shields.io/badge/spotify-%7C-0%2C%2022%2C%20100)
 </div>
