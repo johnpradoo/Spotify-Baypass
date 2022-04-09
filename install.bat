@@ -8,10 +8,8 @@
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 Write-Host @'
-version: v0.02-b305n
 Author: (Intagram, Twitter) @johnpradoo
-CLI: Exploit v.01-b305n
-Ultima version probada: 1.1.82.758.g8b7b66c7
+CLI: Exploit v.01-b305n version: v.2.0.4.09-22
 Website: https://daksh.eu.org
 '@`n
 
@@ -58,7 +56,7 @@ function RefreshPath {
 }
 
 
-$spice = [Microsoft.VisualBasic.Interaction]::MsgBox('Exploit v.01-b305n, Primera vez?', 'YesNoCancel,MsgBoxSetForeground,Question,SystemModal', 'Exploit v.01-b305n');
+$spice = [Microsoft.VisualBasic.Interaction]::MsgBox('Esta Exploit v.2.0.4.09-22 instalado en su sistema?', 'YesNoCancel,MsgBoxSetForeground,Question,SystemModal', 'Exploit v.2.0.4.09-22');
 
 if ($spice -eq 'Yes') {
  Write-Host "`nSkipping Spicetify installation and checking for updates `n"
@@ -68,9 +66,9 @@ if ($spice -eq 'Yes') {
  }
 
 if ($spice -eq 'No') {
- Write-Host "`n Installing Exploit CLI`n"
+ Write-Host "`nInstalling Spicetify CLI`n"
  Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1" | Invoke-Expression
- Write-Host "`n Explotado CLI`n"
+ Write-Host "`n Installed Spicetify CLI`n"
  RefreshPath
  }
 
@@ -98,4 +96,4 @@ Set-Location "$(spicetify -c | Split-Path)\Themes"
 spicetify config current_theme SpotifyNoPremium
 spicetify config extensions adblock.js
 spicetify backup apply
-Write-Host "`n Exito"
+Write-Host "`nInstalled successfully"
