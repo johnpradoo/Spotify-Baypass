@@ -9,7 +9,7 @@
 
 Write-Host @'
 Author: (Intagram, Twitter) @johnpradoo
-CLI: Exploit v.01-b305n version: v.2.0.4.09-22
+CLI: New Exploit - V.2 "Adromedax" version: v.2.0.4.09-22
 Website: https://daksh.eu.org
 '@`n
 
