@@ -1,4 +1,4 @@
-### **Baypass**
+### **New Exploit - V.2 "Adromedax"**
 Un tema multiplataforma de Spicetify que ordena la interfaz de usuario de stock de Spotify y elimina todos los anuncios.
 Hemos cambiado a una solución de bloqueo de anuncios multiplataforma, así que asegúrese de usar el último ([`install.bat (Final v.2). 04/09/22.`](https://github.com/johnpradoo/Spotify-Baypass/releases/download/04.09.22/install.bat))  para obtener las últimas funciones y GIT. ([`Git.exe`](https://github.com/johnpradoo/Spotify-Baypass/releases/download/03.18.21/Git-2.34.1-64-bit.exe)). ([`Wed-Git`](https://git-scm.com/download/win))
 `Spotify-Baypass`New version
